@@ -22,7 +22,7 @@ header {
   border-radius: 50%;
 }
 
-ul {
+.navigationList {
   display: flex;
   justify-content: end;
   gap: 15px;
